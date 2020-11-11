@@ -11,6 +11,7 @@ const Random = () => {
             const {data} = await axios.get(url);
             console.log(data);
         }
+        fetch();
     },[]);
 
     return (
