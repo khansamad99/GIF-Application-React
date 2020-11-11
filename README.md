@@ -12,4 +12,4 @@
 
 ### Preview
 
-![Demo](https://github.com/khansamad99/Expense-Tracker/blob/main/Screenshot%20from%202020-11-04%2023-35-11.png)
+![Demo](https://github.com/khansamad99/GIF-Application-React/blob/main/public/Screenshot%20from%202020-11-11%2014-15-35.png)
